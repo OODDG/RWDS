@@ -1,3 +1,3 @@
 # RWDS
 
-Please stay tuned, as the dataset will be made available soon.
+Please stay tuned, more details on the datasets will be available upon the acceptance of the paper.
